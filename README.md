@@ -5,6 +5,6 @@ This repo containts datasets for the R-Ladies Chicago [Social Meetup](https://ww
 Attendees can submit their wine tasting scores **[here](https://goo.gl/forms/T7iWlNdCEWkFTBIg1).**  
   
 We'll also be using the [Most Common Wine Scores Dataset](https://www.kaggle.com/residentmario/most-common-wine-scores) from Kaggle.   
-.csv files for this dataset are included here.  
+.csv files for this dataset are included in the **most-common-wine-scores** folder.  
   
   
